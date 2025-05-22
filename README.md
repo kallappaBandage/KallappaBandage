@@ -3,9 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5f1af6a5a2e0c6fb0c8c4a65e3cc1d1.gif">
 
-- 🎓 **Certified ITEP Full-Stack Program -&nbsp;InfoBeans&nbsp;Foundation&nbsp;(2024–25)**
-- 🎓 Certified ITEP Full-Stack Program InfoBeans Foundation (2024–25)
-- 🎓 **Certified ITEP Full-Stack Program InfoBeans Foundation (2024–25)**
+- 🎓 **Certified ITEP Full-Stack Program at InfoBeans Foundation (2024–25)**
 - 💼 Previously worked as a **Design Engineer** at Epitome Consultancy Services
 - 👨‍💻 All of my projects are available at: [My GitHub Projects](https://github.com/kallappaBandage?tab=repositories)  
 - 💻 Technologies i worked with **Java, MySQL, HTML, CSS, UI/UX Design & Tools, Git, and Responsive Design**  
