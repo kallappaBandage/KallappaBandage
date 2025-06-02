@@ -5,7 +5,8 @@
 
 - 🎓 **Certified ITEP Full-Stack Program at InfoBeans Foundation**
 - 💼 Previously worked as a **Design Engineer** at Epitome Consultancy Services
-- 👨‍💻 All of my projects are available at: [My GitHub Projects](https://github.com/kallappaBandage?tab=repositories)  
+- 👨‍💻 All of my projects are available at: [My GitHub Projects](https://github.com/kallappaBandage?tab=repositories)
+- 🌐 Visit my personal portfolio: [kallappabandage.github.io](https://kallappabandage.github.io/Portfolio/)    
 - 💻 Technologies i worked with **Java, MySQL, HTML, CSS, UI/UX Design & Tools, Git, and Responsive Design**  
 - 🎨 I'm deeply interested in **UI/UX Design** – explore my work on [Behance](https://www.behance.net/akashbandage/projects)  
 - 📸 I also love **Photography** – a creative outlet beyond code  
